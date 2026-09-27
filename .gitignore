@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.o
+
+# Personal/user data
+user.txt
+personal_info.txt
+documents.txt
+contacts.txt
+notes.txt
+
+# Temporary test file
+test.cpp
+
+# VS Code settings
+.vscode/
